@@ -1,6 +1,7 @@
 # 🎵 Spotify UI Clone (Self-Built)
 
-This project is a **self-built Spotify-inspired UI clone** created using HTML and CSS. The design is developed completely from scratch without copying or using any existing repository.
+This project is a **self-built Spotify-inspired UI clone** created using HTML and CSS. 
+The design is developed completely from scratch without copying or using any existing repository.
 
 ## 🚀 Features
 
